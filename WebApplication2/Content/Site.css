@@ -52,6 +52,18 @@ textarea {
 #resume:hover #icon-resume{
     display:block;
 }
+.navbar-fixed-top{
+    border-bottom:solid 4px black !important;
+    margin-left: 75px;
+    margin-right: 75px;
+}
+
+.nav a{
+    color:black;
+    text-decoration:none;
+    font-size: 1.2em;
+    font-weight: bold;
+}
 
 
 
